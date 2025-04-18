@@ -2,7 +2,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 **CodeGene**
+### 🔐 **[CodeGene](https://github.com/codegene)**
 *AI-Powered Smart Contract Security Toolkit*
 
 - 🔍 **Static & Dynamic Audits**: Auto-detects vulnerabilities in Solidity & Rust contracts
@@ -12,7 +12,7 @@
 - 📊 **Security Reports**: Visual dashboard + exportable reports for audit records
 - 🚨 **Detects**: Reentrancy, overflows, access issues, logic flaws, front-running, and more
 
-### 🤖 **LLMBroker**
+### 🤖 **[LLMBroker](https://github.com/LLMBroker)**
 *Decentralized LLM Compute Marketplace*
 
 - 💻 **Use Idle Hardware**: Run LLMs and earn tokens (FLR) through smart contracts
@@ -23,7 +23,7 @@
 - 🔐 **Oracle Pricing**: Uses Flare Time Series Oracle to stabilize token exchange rates
 - 🛠 **Quick Setup**: Clone endpoint, install API lib, deploy server contract, start earning
 
-### 💸 **XRPLendNet**
+### 💸 **[XRPLendNet](https://github.com/DanyloPiatyhorets/XRPLendNet)**
 *Peer-to-Peer Lending on XRP Ledger*
 
 - 🏦 **Decentralized Loans**: Users can create/trade loans securely with wallet integration
@@ -31,13 +31,12 @@
 - ⚙️ **Stack**: Solidity, XRPL EVM Sidechain, Next.js, Tailwind
 - 🔮 **Future Plans**: Collateral automation, stablecoin adoption, secondary loan market
 
-### 🪙 **AssetXchange**
+### 🪙 **[AssetXchange](https://github.com/ojasarora77/AssetXchange)**
 *No-Code DApp for Real-World Asset Tokenization*
 
 - 🧱 **Modular Asset Types**: Businesses create & manage NFT-backed representations of physical goods
 - 🌐 **Etherlink Rollup**: Deployed on Tezos-compatible testnet for fast, secure transactions
 - 👨‍💼 **Non-Technical UX**: Designed for small businesses to onboard without coding
-- 🔗 **[Live Demo](https://assetxchange.vercel.app)**
 
 ## 💼 Skills
 
