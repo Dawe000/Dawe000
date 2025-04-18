@@ -14,7 +14,7 @@ My academic background in cybersecurity complements my practical experience in b
 
 ## 🚀 Featured Projects
 
-### 🔐 **[CodeGene](https://github.com/codegene)**
+### 🔐 **[CodeGene](https://github.com/Dawe000/codegene)**
 *AI-Powered Smart Contract Security Toolkit*
 
 - 🔍 **Static & Dynamic Audits**: Auto-detects vulnerabilities in Solidity & Rust contracts
@@ -24,7 +24,7 @@ My academic background in cybersecurity complements my practical experience in b
 - 📊 **Security Reports**: Visual dashboard + exportable reports for audit records
 - 🚨 **Detects**: Reentrancy, overflows, access issues, logic flaws, front-running, and more
 
-### 🤖 **[LLMBroker](https://github.com/LLMBroker)**
+### 🤖 **[LLMBroker](https://github.com/Dawe000/LLMBroker)**
 *Decentralized LLM Compute Marketplace*
 
 - 💻 **Use Idle Hardware**: Run LLMs and earn tokens (FLR) through smart contracts
