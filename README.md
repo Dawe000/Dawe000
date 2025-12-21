@@ -1,9 +1,5 @@
 # Hey, I'm Dawid!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Ethereum+Developer;Smart+Contract+Engineer;Web3+Founder" alt="Typing SVG" />
-</div>
-
 ## About Me
 
 I'm a **third-year Computer Science with Cyber Security student** at the University of Southampton. I like building with agents and Eth.
