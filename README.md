@@ -4,14 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Ethereum+Developer;Smart+Contract+Engineer;Web3+Founder" alt="Typing SVG" />
 </div>
 
----
-
 ## About Me
 
 I'm a **third-year Computer Science with Cyber Security student** at the University of Southampton. I like building with agents and Eth.
 Currently exploring ERC8004.
 
----
 
 ## What I'm Working On
 
@@ -34,7 +31,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 - Creating economic incentives for giving high quality feedback for agents
 - Exploring how to identify spam and prevent sybil attacks
 - Building a custom implementation of GLICKO for relative rating of agents and reviewers
----
 
 ## Featured Projects
 
@@ -69,10 +65,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 - Token-based job marketplace on-chain
 - JavaScript SDK for quick integration
 - Oracle pricing using Flare Time Series Oracle
-
-
-
----
 
 ## Stack
 
@@ -117,7 +109,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1D4ED8?style=flat-square&logoColor=white)
 
----
 
 ## GitHub Stats
 
@@ -127,7 +118,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawe000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
 ## Education & Experience
 
@@ -143,7 +133,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 - Relevant coursework: Network Security, Cryptography, Software Engineering, Algorithms & Data Structures
 - Final Year Project: working on a smart wallet system using EIP7702
 
----
 
 ## Achievements
 
@@ -153,14 +142,12 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 - **Mainline Track Winner** – AssetXChange (ETH Oxford 2024)
 - **Technical Track Finalist** – XRPLendNet (Ripple x EasyA 2024)
 
----
 
 ## Currently Learning
 - Trusted Execution Environments (TEE) for agents
 - Defi generally
 - Cross-chain agent communication protocols
 
----
 
 ## Open To
 
@@ -168,7 +155,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 - Exploring use cases for ERC-8004
 - Hackathon teams with cool ideas
 
----
 
 ## Let's Connect
 
@@ -179,7 +165,5 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 <img src="https://komarev.com/ghpvc/?username=Dawe000&style=flat-square&color=00D9FF" alt="Profile views" />
 
 </div>
-
----
 
 **Last updated**: December 2025
