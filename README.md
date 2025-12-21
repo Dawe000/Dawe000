@@ -1,7 +1,7 @@
 # Hey, I'm Dawid!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Ethereum+Developer;AI+Agent+Builder;Smart+Contract+Engineer;Web3+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Ethereum+Developer;Smart+Contract+Engineer;Web3+Founder" alt="Typing SVG" />
 </div>
 
 ---
@@ -115,7 +115,6 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1D4ED8?style=flat-square&logoColor=white)
 
 ---
