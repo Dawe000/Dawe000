@@ -156,7 +156,7 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 
 <div align="center">
 
-**[Website](https://dawidpisarczyk.com)** • **[Email](mailto:dawid.pisarczyk@gmail.com)** • **[GitHub](https://github.com/Dawe000)** • **[LinkedIn](https://linkedin.com/in/dawidpisarczyk)**
+**[Website](https://dawidpisarczyk.com)** • **[Email](mailto:dawid.pisarczyk@gmail.com)** • **[LinkedIn](https://linkedin.com/in/dawidpisarczyk)**
 
 <img src="https://komarev.com/ghpvc/?username=Dawe000&style=flat-square&color=00D9FF" alt="Profile views" />
 
