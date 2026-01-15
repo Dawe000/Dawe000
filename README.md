@@ -8,19 +8,20 @@ Currently exploring ERC8004.
 
 ## What I'm Working On
 
-### **Lyneth** (Co-Founder)
-Multi-agent protocol simulator & security testing platform
-- Built multi-agent system that orchestrates complex economic & security scenarios
-- Scalable backend with mainnet forking, fuzzing, and automated scenario execution
-- Chat-based scenario builder converting natural language to executable simulations
-- Early beta users + strong validation from Web3 protocols + grants
+### **[Lyneth](https://lyneth.xyz)** (Co-Founder)
+Trust infrastructure for agentic economies
+- Building decentralized systems that enable verifiable trust when agents replace intermediaries, funded by a \$20,000 grant from Venice AI
+- Developing infrastructure on top of ERC-8004 registries for identity, reputation, and validation
+- Analyzing feedback history, owner wallet patterns, and interaction quality to surface meaningful reputation signals
+- Building comprehensive protection mechanisms: sybil resistance, griefing protection, and validation systems
+- Working with early partners across DeFi and agent infrastructure
 
 ### **Agent0**
 Contributing to **[Agent0 SDK](https://github.com/agent0lab)** for semantic agent search and trust-rating systems
-- [Semantic search engine](https://agent0search.dawidpisarczyk.com/) for ERC-8004 agents using vector embeddings
-- Automatically reindexes agents from the subgraph via cron jobs
+- [Semantic search service](https://agent0search.dawidpisarczyk.com/) for ERC-8004 agents using Subgraph, Cloudflare Workers, Venice AI embeddings, and Pinecone vector storage
+- Automated indexing system with cron-based sync, queue-based processing, and D1 state management
+- Contributed semantic search integration to the TypeScript SDK with filter conversion utilities, response mapping, and multi-chain search capabilities
 - Standardized search API compliant with [AG0 Semantic Search Standard](https://github.com/agent0lab/search-service/blob/main/docs/AG0_SEMANTIC_SEARCH_STANDARD.md)
-- Supports filtering, pagination, and relevance scoring
 
 ### **Trusted Agent Network**
 In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we can trust agents on the ERC8004 registry
@@ -89,6 +90,7 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 ![Tezos](https://img.shields.io/badge/Tezos-2C7DF7?style=flat-square&logo=Tezos&logoColor=white)
 ![Privy](https://img.shields.io/badge/Privy-6366F1?style=flat-square&logoColor=white)
 ![Thirdweb](https://img.shields.io/badge/Thirdweb-9340FF?style=flat-square&logo=thirdweb&logoColor=white)
+![Subgraph](https://img.shields.io/badge/Subgraph-9945FF?style=flat-square&logoColor=white)
 
 ### Standards & Protocols
 ![ERC-8004](https://img.shields.io/badge/ERC--8004-9945FF?style=flat-square&logoColor=white)
@@ -132,7 +134,7 @@ In-progress [research](https://github.com/Dawe000/comp3226proposal) into how we 
 
 ## Achievements
 
-- 20000$ grant from Venice AI
+- **\$20,000 grant from Venice AI** (Lyneth)
 - **Nethermind "Create your Agentic Future" Bounty** – CodeGene (Encode AI 2025)
 - **Arbitrum Foundation Bounty** – CompassDAO (Encode London 2025)
 - **Mainline Track Winner** – AssetXChange (ETH Oxford 2024)
